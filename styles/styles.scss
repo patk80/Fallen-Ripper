@@ -1,3 +1,13 @@
 body {
     font-family: 'Roboto', sans-serif;
 }
+
+/* Navbar Styles Start */
+.navbar-toggler {
+    border: none;
+    outline: none;
+    &:focus {
+        box-shadow: none;
+    }
+}
+/* Navbar Styles End */

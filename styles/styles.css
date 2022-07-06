@@ -1,4 +1,17 @@
 body {
   font-family: 'Roboto', sans-serif;
 }
+
+/* Navbar Styles Start */
+.navbar-toggler {
+  border: none;
+  outline: none;
+}
+
+.navbar-toggler:focus {
+  -webkit-box-shadow: none;
+          box-shadow: none;
+}
+
+/* Navbar Styles End */
 /*# sourceMappingURL=styles.css.map */
